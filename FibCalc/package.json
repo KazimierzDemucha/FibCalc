@@ -1,0 +1,12 @@
+{
+  "name": "fib-calc",
+  "version": "0.0.0",
+  "description": "FibCalc",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}
