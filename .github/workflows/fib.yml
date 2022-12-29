@@ -1,4 +1,4 @@
-name: GA FibCalc
+name: GA Fib
 
 on:
   push:
